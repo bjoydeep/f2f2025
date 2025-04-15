@@ -1,0 +1,12 @@
+ipykernel 
+jupyter
+python-dotenv
+
+
+llama_stack_client==0.1.8
+
+
+langchain 
+
+psycopg2 
+python-environ
